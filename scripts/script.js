@@ -95,3 +95,10 @@ gameBtn.addEventListener("click", () => {
 
 /* Main */
 initModel();
+
+
+x=24;
+while (x>=0) {
+   console.log(x);
+   x = x - 1;
+}
